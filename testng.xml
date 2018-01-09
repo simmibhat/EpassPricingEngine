@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Sample Suite">
+
+<test name="SMDFUploadTestNGName">
+    <classes>
+        <class name="com.ibm.automation.SMDFUploadTestNG"></class>      
+    </classes>
+</test>
+
+</suite>
